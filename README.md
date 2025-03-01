@@ -1,75 +1,55 @@
-```markdown
-<div align="center">
-  
-  ![GitHub repo size](https://img.shields.io/github/repo-size/jazavaja/Restaurant)
-  ![GitHub stars](https://img.shields.io/github/stars/jazavaja/Restaurant?style=social)
-  ![GitHub forks](https://img.shields.io/github/forks/jazavaja/Restaurant?style=social)
-  [![Twitter Follow](https://img.shields.io/twitter/follow/jazavaja?style=social)](https://twitter.com/intent/follow?screen_name=jazavaja)
+# 🍽️ Restaurant - Modern Restaurant Website
 
-  <br />
-  <br />
+![GitHub repo size](https://img.shields.io/github/repo-size/jazavaja/Restaurant)
+![GitHub stars](https://img.shields.io/github/stars/jazavaja/Restaurant?style=social)
+![GitHub forks](https://img.shields.io/github/forks/jazavaja/Restaurant?style=social)
+[![Twitter Follow](https://img.shields.io/twitter/follow/jazavaja?style=social)](https://twitter.com/intent/follow?screen_name=jazavaja)
 
-  <h2 align="center">Restaurant - Restaurant Website</h2>
+## 📌 Overview
 
-  Restaurant is a fully responsive restaurant website, <br />designed and developed using HTML, CSS, and JavaScript. This project is optimized for all devices, ensuring a seamless user experience across desktops, tablets, and mobile phones.
+**Restaurant** is a modern and fully responsive restaurant website built with **HTML, CSS, and JavaScript**. It provides an elegant design optimized for all devices, ensuring a seamless user experience across desktops, tablets, and mobile phones.
 
-  <a href="https://jazavaja.github.io/Restaurant/"><strong>➥ Live Demo</strong></a>
+🔗 **Live Demo:** [View Here](https://jazavaja.github.io/Restaurant/)
 
-</div>
+## 📸 Screenshots
 
-<br />
-
-### Demo Screenshots
+### 🖥️ Desktop View
 
 ![Restaurant Desktop Demo](./readme-images/desktop.png "Desktop Demo")
+
+### 📱 Mobile View
+
 ![Restaurant Mobile Demo](./readme-images/mobile.png "Mobile Demo")
 
-### Prerequisites
+## 🚀 Features
 
-Before you begin, ensure you have met the following requirements:
+- 📱 **Fully Responsive** – Works on all screen sizes.
+- 🎨 **Modern UI/UX** – Clean and elegant design.
+- ⚡ **Optimized Performance** – Fast loading time.
+- 🔧 **Easy to Customize** – Well-structured code.
+- 📜 **Built with Semantic HTML5, CSS3, and Vanilla JavaScript.**
 
-* [Git](https://git-scm.com/downloads "Download Git") must be installed on your operating system.
+## 🛠️ Installation
 
-### Run Locally
-
-To run **Restaurant** locally, use the following command in your terminal or Git Bash:
-
-Linux and macOS:
-
-```bash
-sudo git clone https://github.com/jazavaja/Restaurant.git
-```
-
-Windows:
+To run **Restaurant** locally, follow these steps:
 
 ```bash
+# Clone the repository
 git clone https://github.com/jazavaja/Restaurant.git
+
+# Open index.html in your browser
 ```
 
-After cloning the repository, open the `index.html` file in your preferred browser to view the website.
+## 🤝 Contributing
 
-### Features
+Contributions are welcome! If you find any issues or have suggestions, feel free to **open an issue** or **submit a pull request**.
 
-- Fully responsive design for all devices.
-- Clean and modern UI/UX.
-- Built with semantic HTML5, CSS3, and vanilla JavaScript.
-- Optimized for speed and performance.
-- Easy to customize and extend.
+## 📬 Contact
 
-### Contribution
+For any inquiries or questions, reach out to me:
 
- Contributions are always welcome! If you find any issues or have suggestions for improvements, feel free to open an issue or submit a pull request.
+- 📧 [Email](mailto:javadesmesh@gmail.com)
 
-### Contact
-
-If you have any questions or need further assistance, you can reach me at:
-
-- [Twitter](https://www.twitter.com/jazavaja)
-- [Email](mailto:your-email@example.com)
-
-### License
+## 📜 License
 
 This project is licensed under the [MIT License](https://choosealicense.com/licenses/mit/).
-
----
-```
